@@ -1,6 +1,0 @@
-source;share/hexapod_klavye_kontrol/hook/pythonpath.ps1
-source;share/hexapod_klavye_kontrol/hook/pythonpath.dsv
-source;share/hexapod_klavye_kontrol/hook/pythonpath.sh
-source;share/hexapod_klavye_kontrol/hook/ament_prefix_path.ps1
-source;share/hexapod_klavye_kontrol/hook/ament_prefix_path.dsv
-source;share/hexapod_klavye_kontrol/hook/ament_prefix_path.sh
