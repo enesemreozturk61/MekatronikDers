@@ -1,0 +1,82 @@
+[0.013s] Invoking command in '/home/ozturk/mekhexapod_ws/build/hexapod_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake /home/ozturk/mekhexapod_ws/src/hexapod_description -DCMAKE_INSTALL_PREFIX=/home/ozturk/mekhexapod_ws/install/hexapod_description
+[0.064s] -- The C compiler identification is GNU 11.4.0
+[0.110s] -- The CXX compiler identification is GNU 11.4.0
+[0.116s] -- Detecting C compiler ABI info
+[0.177s] -- Detecting C compiler ABI info - done
+[0.182s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.182s] -- Detecting C compile features
+[0.182s] -- Detecting C compile features - done
+[0.184s] -- Detecting CXX compiler ABI info
+[0.254s] -- Detecting CXX compiler ABI info - done
+[0.260s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.260s] -- Detecting CXX compile features
+[0.261s] -- Detecting CXX compile features - done
+[0.265s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.393s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.521s] -- Configuring done
+[0.522s] -- Generating done
+[0.523s] -- Build files have been written to: /home/ozturk/mekhexapod_ws/build/hexapod_description
+[0.527s] Invoked command in '/home/ozturk/mekhexapod_ws/build/hexapod_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake /home/ozturk/mekhexapod_ws/src/hexapod_description -DCMAKE_INSTALL_PREFIX=/home/ozturk/mekhexapod_ws/install/hexapod_description
+[0.528s] Invoking command in '/home/ozturk/mekhexapod_ws/build/hexapod_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake --build /home/ozturk/mekhexapod_ws/build/hexapod_description -- -j12 -l12
+[0.563s] Invoked command in '/home/ozturk/mekhexapod_ws/build/hexapod_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake --build /home/ozturk/mekhexapod_ws/build/hexapod_description -- -j12 -l12
+[0.573s] Invoking command in '/home/ozturk/mekhexapod_ws/build/hexapod_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake --install /home/ozturk/mekhexapod_ws/build/hexapod_description
+[0.579s] -- Install configuration: ""
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version1
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version1/mid_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version1/down_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version1/platform_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version1/up_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2/mid_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2/tip_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2/down_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2/platform_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/collision/Version2/up_section_hitbox.xacro
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/config
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/config/initial_positions.yaml
+[0.579s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/contact
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/contact/contact_sensor.py
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/control
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/control/controller_manager.yaml
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/control/hexapod.ros2_control.xacro
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/gazebo
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/gazebo/hexapod.gazebo.xacro
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1
+[0.580s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/leg_mid.stl
+[0.581s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/leg_down.stl
+[0.581s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/hitbox_2_leg_down.stl
+[0.581s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/hitbox_2_leg_up.stl
+[0.581s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/hitbox_2_leg_mid.stl
+[0.581s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/platform.stl
+[0.583s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/hitbox_platform.stl
+[0.583s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version1/leg_up.stl
+[0.583s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version2
+[0.583s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version2/leg_mid.stl
+[0.587s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version2/leg_down.stl
+[0.587s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version2/platform.stl
+[0.588s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/meshes/Version2/leg_up.stl
+[0.588s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf/hexapod.urdf.xacro
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf/imu.urdf.xacro
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf/hexapod_ee.urdf.xacro
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf/hexapod_leg_ee.urdf.xacro
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/urdf/camera.xacro
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/lib/hexapod_description/contact_sensor.py
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/ament_index/resource_index/package_run_dependencies/hexapod_description
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/ament_index/resource_index/parent_prefix_path/hexapod_description
+[0.589s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/environment/ament_prefix_path.sh
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/environment/ament_prefix_path.dsv
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/environment/path.sh
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/environment/path.dsv
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/local_setup.bash
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/local_setup.sh
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/local_setup.zsh
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/local_setup.dsv
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/package.dsv
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/ament_index/resource_index/packages/hexapod_description
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/cmake/hexapod_descriptionConfig.cmake
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/cmake/hexapod_descriptionConfig-version.cmake
+[0.590s] -- Installing: /home/ozturk/mekhexapod_ws/install/hexapod_description/share/hexapod_description/package.xml
+[0.592s] Invoked command in '/home/ozturk/mekhexapod_ws/build/hexapod_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ozturk/ros2_ws/install/phantomx_gazebo:/home/ozturk/Hexapod-ROS2-System/sim_and_real/ros2_ws_hex/install/hexapod_keyboard_control:/opt/ros/humble /usr/bin/cmake --install /home/ozturk/mekhexapod_ws/build/hexapod_description
